@@ -1,0 +1,40 @@
+html{
+  background-color: grey;
+}
+.main {
+  border: 0.1em solid red;
+  height: 34em;
+  width: 37em;
+  padding: 0.1em;
+  text-align: center;
+  margin:auto;
+}
+
+.box {
+  height: 1.5em;
+  width: 1.5em;
+  border: 0.1em solid red;
+  padding: 0.2em;
+  margin: 0.02em 0.04em;
+  display: inline-block;
+  background-color:black;
+  border-radius: 1em;
+}
+
+.new_row {
+  clear: both;
+}
+
+
+.upperbar
+{
+  margin: auto;
+  margin-bottom: 1em;
+  border: 1px solid red;
+  text-align: center;
+}
+
+.mainTitle
+{
+  margin: auto;
+}
